@@ -19,6 +19,6 @@ public class Main {
     }
 
     public static boolean isPositivNumber(int number) {
-        return number >= 0;
+        return number > 0;
     }
 }
